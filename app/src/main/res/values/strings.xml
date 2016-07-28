@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CaesarCrypt</string>
+    <string name="decrypt_text">Decrypt</string>
+    <string name="encrypt_text">Encrypt</string>
+    <string name="enter_text">Enter your text below.</string>
+    <string name="key_text">Key: </string>
+    <string name="et_hint_text">The text you want to encrypt/decrypt</string>
+</resources>
